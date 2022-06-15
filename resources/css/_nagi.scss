@@ -1,0 +1,26 @@
+.left_body{
+    background-color: #2B4255;
+    min-height: 90vh;
+}
+.right_body{
+    background-image: linear-gradient(#E3E7F1 15%, #FFFFFF 85% );
+    min-height: 90vh;
+}
+.catecory_contant{
+    *{
+        color: #FFFFFF;
+    }
+}
+
+.blog_img{
+    border-radius: 10px;
+    overflow: hidden;
+    img{
+        width: 100%;
+    }
+}
+#main{
+    .row{
+        margin: 0;
+    }
+}
